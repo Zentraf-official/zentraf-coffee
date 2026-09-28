@@ -1,0 +1,4 @@
+# Nada de secretos ni de archivos del sistema en este repositorio
+.DS_Store
+.secrets/
+*.env

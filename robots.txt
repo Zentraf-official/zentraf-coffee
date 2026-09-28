@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# «Zentraf Coffee» ist eine Demo der Agentur Zentraf (Arbeitsprobe).
+# Die Seite traegt deshalb im Kopf <meta name="robots" content="noindex, nofollow, noarchive">
+# und soll nicht in Suchmaschinen erscheinen. Adresse, Telefonnummer und Preise sind erfunden.
+
+Sitemap: https://zentraf-official.github.io/zentraf-coffee/sitemap.xml
